@@ -1,0 +1,6 @@
+# .gitignore file for picosdk-ps9000-ni-labview-examples repository
+# Untracked files/folders to ignore.
+
+# Windows platforms
+
+**/*.exe
