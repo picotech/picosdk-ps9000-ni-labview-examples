@@ -1,6 +1,6 @@
 # picosdk-ps9000-ni-labview-examples
 
-*picosdk-ps9000-ni-labview-examples* is a set of National Instruments LabVIEW examples demonstrating how to control the PicoScope^®^ 9200 and PicoScope 9300 Series PC Sampling Oscilloscopes using ActiveX.
+*picosdk-ps9000-ni-labview-examples* is a set of National Instruments LabVIEW examples demonstrating how to control the PicoScope® 9200 and PicoScope 9300 Series PC Sampling Oscilloscopes using ActiveX.
 
 Examples are provided as a set of LabVIEW vi files and are grouped according to whether the oscilloscope is a PicoScope 9200 Series or 9300 Series model.
 
@@ -62,4 +62,4 @@ See [LICENSE.md](LICENSE.md) for license terms.
 
 *LabVIEW* is a registered trademark of National Instruments Corporation.
 
-Copyright © 2015&ndash;2017 Pico Technology Ltd. All rights reserved.
+Copyright © 2015-2017 Pico Technology Ltd. All rights reserved.
