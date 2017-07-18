@@ -40,9 +40,9 @@ You can download Programmer's Guides providing a description of the commands for
 
 ### Running the examples
 
-* To run the program click the **ON** button. 
-* Send any commands from the command string or click the **Run**, **Single**, **Stop**, or **Get Data** buttons
-* To close the presentation click the **OFF** button
+* To run the program click **ON**. 
+* Send any commands from the command string or click **Run**, **Single**, **Stop**, or **Get Data**
+* To close the presentation click **OFF**
 
 ## Obtaining support
 
