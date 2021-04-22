@@ -1,8 +1,8 @@
 # picosdk-ps9000-ni-labview-examples
 
-*picosdk-ps9000-ni-labview-examples* is a set of National Instruments LabVIEW examples demonstrating how to control the PicoScope® 9200 and PicoScope 9300 Series PC Sampling Oscilloscopes using ActiveX.
+*picosdk-ps9000-ni-labview-examples* is a set of National Instruments LabVIEW examples demonstrating how to control the PicoScope® 9200, PicoScope 9300 and PicoScope 9400 Series PC Sampling Oscilloscopes using ActiveX.
 
-Examples are provided as a set of LabVIEW vi files and are grouped according to whether the oscilloscope is a PicoScope 9200 Series or 9300 Series model.
+Examples are provided as a set of LabVIEW vi files and are grouped according to whether the oscilloscope is a PicoScope 9200 Series, 9300 Series or 9400 Series model.
 
 The example files use ActiveX to launch the appropriate *PicoScope9000* or *PicoSample* software application and run a presentation. The examples act as  ActiveX clients, while the corresponding *PicoScope9000* or *PicoSample* applications act as ActiveX servers.
 
@@ -30,9 +30,19 @@ The example files use ActiveX to launch the appropriate *PicoScope9000* or *Pico
 * PicoScope 9321 
 * PicoScope 9341-25
 
+#### PicoScope 9400 Series
+
+* PicoScope 9402-05
+* PicoScope 9402-16
+* PicoScope 9404-05
+* PicoScope 9404-16
+
 ### Installing software
 
-* Download the *PicoScope9200* software for PicoScope 9200 Series models or *PicoSample* software for PicoScope 9300 Series models from our [Downloads page](https://www.picotech.com/downloads).
+* Download the *PicoScope9200* software for PicoScope 9200 Series models or
+*PicoSample 3* software for PicoScope 9300 Series models or
+*PicoSample 4* software for PicoScope 9400 Series models
+these can be found on our [Downloads page](https://www.picotech.com/downloads).
 
 ### Programmer's Guides
 
@@ -62,4 +72,4 @@ See [LICENSE.md](LICENSE.md) for license terms.
 
 *LabVIEW* is a registered trademark of National Instruments Corporation.
 
-Copyright © 2015-2017 Pico Technology Ltd. All rights reserved.
+Copyright © 2015-2020 Pico Technology Ltd. All rights reserved.
